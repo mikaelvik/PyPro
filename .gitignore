@@ -1,0 +1,5 @@
+**/*.jpg
+**/*.mp4
+**/*.mov
+get-pip.py
+**/.DS_store
